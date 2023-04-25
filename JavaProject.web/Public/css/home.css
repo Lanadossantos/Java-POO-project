@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #BAD1C2;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    align-items: center;
+}
+
+.HeaderImage{
+    margin-left: 3em;
+}
+
+.HeaderTitle{
+    background-color: #4FA095;
+    height: 100%;
+}
+
+.Name{
+    margin-left: 5em;
+}
+
+.HeaderTitle h1{
+    color: #314D68;
+    font-size: 4em;
+}
+
+.HeaderTitle h4{
+    color: #767676;
+    font-size: 2em;
+}
