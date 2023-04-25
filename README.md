@@ -22,5 +22,9 @@ Membros do grupo:
 <p>Segue abaixo algumas imagens da primeira edição do projeto:</p>
 
 <div align="center">
-  ![NID-reuniao2](https://user-images.githubusercontent.com/127691176/234401933-74089fad-080f-403b-83af-725a0cc8d62e.jpg)
+  <img src="https://user-images.githubusercontent.com/127691176/234401933-74089fad-080f-403b-83af-725a0cc8d62e.jpg" width="500px">
+  <br>
+  <br>
+  <img src="https://user-images.githubusercontent.com/127691176/234403623-b458c7ac-656a-4a20-b753-11882836ad67.jpg" width="500px">
 </div>
+
