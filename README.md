@@ -22,5 +22,5 @@ Membros do grupo:
 <p>Segue abaixo algumas imagens da primeira edição do projeto:</p>
 
 <div align="center">
-  h1
+  ![NID-reuniao2](https://user-images.githubusercontent.com/127691176/234401933-74089fad-080f-403b-83af-725a0cc8d62e.jpg)
 </div>
