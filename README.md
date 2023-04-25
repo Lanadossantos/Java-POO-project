@@ -11,3 +11,16 @@ Membros do grupo:
 * Matheus Vieira Lima Matos <br>
 * Thiago Rodrigues dos Santos 
 
+# Projeto de POO em Java
+
+## Como surgiu a ideia
+<p>Com uma nova proposta avaliativa para os alunos da Uniruy do semestre de 2023.1 da disciplina de Programação Orientada a Objetos em Java foi nos proposto um projeto de extensão, para que nós pudessemos por os nossos conhecimentos a prova e também gerar alguma contribuição para socidedade. Então a nossa equipe optou por contribuir com o Núcleo de Inclusão Digital (NID), desenvolvendo um site que pudesse dar mais visibilidade para o projeto e para facilitar a interação com os participantes.</p>
+
+## Mas oque é o NID ?
+<p> O Núcleo de inclusão Digital (NID) é uma iniciativa do Centro Universitário Uniruy em parceria com os estudantes de Tecnologia da Informação que surgiu com o objetivo de auxiliar pessoas em situação de vulnerabilidade, fornecendo aulas e monitorias de ferramentas e habilidades básicas, tais como: utilizar o computador, acessar a internet e utlizar os softwares Word e Powerpoint. O projeto surgiu no semestre 2022.2 e agora em 2023.1 está retornando para a sua segunda edição.</p> 
+
+<p>Segue abaixo algumas imagens da primeira edição do projeto:</p>
+
+<div align="center">
+  h1
+</div>
